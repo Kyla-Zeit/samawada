@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const isProd = process.env.NODE_ENV === 'production'
-const repo = 'swco'
+const repo = 'samawada' 
 
 const nextConfig = {
   // export a static site for GitHub Pages
