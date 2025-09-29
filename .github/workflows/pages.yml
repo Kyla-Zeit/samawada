@@ -1,7 +1,12 @@
-name: Deploy Next.js to Pages
+# .github/workflows/pages.yml
+name: Pages
+
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+      - '**/*.md'
   workflow_dispatch:
 
 permissions:
@@ -9,24 +14,31 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: 20, cache: 'npm' }
+        with:
+          node-version: 20
+      # If you’re using TypeScript, actually build it
       - run: npm ci
-      - run: npm run build
-      - run: touch out/.nojekyll
+      - run: npm run build           # produces ./dist (adjust as needed)
       - uses: actions/upload-pages-artifact@v3
-        with: { path: out }
+        with:
+          path: ./dist               # or ./docs or ./
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - id: deploy
+      - id: deployment
         uses: actions/deploy-pages@v4
