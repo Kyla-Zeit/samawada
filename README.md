@@ -25,3 +25,9 @@ Built for clarity, speed, and easy content updates.
 - **CSS3** (utility classes + custom components)
 - **TypeScript** for typed, modular UI logic (compiled to JavaScript)
 - **GitHub Pages** for hosting and deployment
+
+---
+
+## 🌐 Deployment
+Deployed using GitHub Pages.
+Access it here → https://kyla-zeit.github.io/nature-canada/
