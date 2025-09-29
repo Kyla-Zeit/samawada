@@ -30,4 +30,4 @@ Built for clarity, speed, and easy content updates.
 
 ## 🌐 Deployment
 Deployed using GitHub Pages.
-Access it here → https://kyla-zeit.github.io/nature-canada/
+Access it here → https://kyla-zeit.github.io/samawada/
