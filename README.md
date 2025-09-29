@@ -20,19 +20,6 @@ Built for clarity, speed, and easy content updates.
 
 ---
 
-## 📂 Project Structure
-samawada/
-│── assets/ # Images, icons, media
-│── css/ # Stylesheets
-│── js/ # JavaScript (navigation, UI helpers)
-│── index.html # Homepage
-│── about.html # (Optional) About or in-page section anchors
-│── projects.html # (Optional) Projects listing/details
-│── donate.html # (Optional) Dedicated donate page/anchor
-│── README.md # Project documentation
-
----
-
 ## 🛠️ Tech Stack
 - **HTML5** for structure
 - **CSS3** (utility classes + custom components)
