@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Samawada approach portfolio preview</title>
+  <desc id="desc">Source-faithful visualization of the Samawada What We Do page, including water, sanitation, tree planting, hygiene, and delivery steps.</desc>
+  <rect width="1200" height="760" fill="#ffffff"/>
+  <text x="600" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#15803d">WHAT WE DO</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" fill="#374151">Our Approach</text>
+  <text x="600" y="165" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6b7280">Science, training, infrastructure, and local leadership working together.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="66" y="222" width="250" height="218" rx="14" fill="#f0fdf4" stroke="#e5e7eb"/>
+    <circle cx="106" cy="267" r="22" fill="#dcfce7"/>
+    <text x="106" y="275" text-anchor="middle" font-size="23" fill="#15803d">◉</text>
+    <text x="142" y="274" font-size="21" font-weight="800" fill="#374151">Water</text>
+    <text x="92" y="320" font-size="13" fill="#6b7280">Research and rigorous water</text>
+    <text x="92" y="343" font-size="13" fill="#6b7280">testing to secure reliable,</text>
+    <text x="92" y="366" font-size="13" fill="#6b7280">safe community sources.</text>
+
+    <rect x="338" y="222" width="250" height="218" rx="14" fill="#f0fdf4" stroke="#e5e7eb"/>
+    <circle cx="378" cy="267" r="22" fill="#dcfce7"/>
+    <text x="378" y="275" text-anchor="middle" font-size="21" fill="#15803d">✓</text>
+    <text x="414" y="274" font-size="21" font-weight="800" fill="#374151">Sanitation</text>
+    <text x="364" y="320" font-size="13" fill="#6b7280">WASH infrastructure that helps</text>
+    <text x="364" y="343" font-size="13" fill="#6b7280">prevent waterborne disease and</text>
+    <text x="364" y="366" font-size="13" fill="#6b7280">protect public health.</text>
+
+    <rect x="610" y="222" width="250" height="218" rx="14" fill="#f0fdf4" stroke="#e5e7eb"/>
+    <circle cx="650" cy="267" r="22" fill="#dcfce7"/>
+    <text x="650" y="275" text-anchor="middle" font-size="20" fill="#15803d">♧</text>
+    <text x="686" y="274" font-size="21" font-weight="800" fill="#374151">Tree planting</text>
+    <text x="636" y="320" font-size="13" fill="#6b7280">Region-specific planting, rain</text>
+    <text x="636" y="343" font-size="13" fill="#6b7280">capture, food security, and</text>
+    <text x="636" y="366" font-size="13" fill="#6b7280">land restoration.</text>
+
+    <rect x="882" y="222" width="250" height="218" rx="14" fill="#f0fdf4" stroke="#e5e7eb"/>
+    <circle cx="922" cy="267" r="22" fill="#dcfce7"/>
+    <text x="922" y="275" text-anchor="middle" font-size="20" fill="#15803d">✦</text>
+    <text x="958" y="274" font-size="21" font-weight="800" fill="#374151">Hygiene</text>
+    <text x="908" y="320" font-size="13" fill="#6b7280">Practical education for safe</text>
+    <text x="908" y="343" font-size="13" fill="#6b7280">storage, use, contamination</text>
+    <text x="908" y="366" font-size="13" fill="#6b7280">prevention, and health.</text>
+  </g>
+
+  <text x="600" y="515" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#15803d">OUR COMMITMENT</text>
+  <text x="600" y="552" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#374151">From research to results</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="162" y="594" width="270" height="116" rx="12" fill="#fff" stroke="#e5e7eb"/>
+    <text x="188" y="628" font-size="15" font-weight="800" fill="#15803d">01  Preparation</text>
+    <text x="188" y="658" font-size="12.5" fill="#6b7280">Research local water scarcity and</text>
+    <text x="188" y="680" font-size="12.5" fill="#6b7280">design the right solution.</text>
+
+    <rect x="465" y="594" width="270" height="116" rx="12" fill="#fff" stroke="#e5e7eb"/>
+    <text x="491" y="628" font-size="15" font-weight="800" fill="#15803d">02  Realization</text>
+    <text x="491" y="658" font-size="12.5" fill="#6b7280">Train communities on hygiene, risk,</text>
+    <text x="491" y="680" font-size="12.5" fill="#6b7280">and long-term maintenance.</text>
+
+    <rect x="768" y="594" width="270" height="116" rx="12" fill="#fff" stroke="#e5e7eb"/>
+    <text x="794" y="628" font-size="15" font-weight="800" fill="#15803d">03  Result</text>
+    <text x="794" y="658" font-size="12.5" fill="#6b7280">Support resilient agriculture, stronger</text>
+    <text x="794" y="680" font-size="12.5" fill="#6b7280">livelihoods, and local ownership.</text>
+  </g>
+</svg>
