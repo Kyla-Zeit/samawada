@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Samawada projects portfolio preview</title>
+  <desc id="desc">Source-faithful visualization of Samawada project cards for water initiatives in Somalia.</desc>
+  <rect width="1200" height="760" fill="#f8faf9"/>
+  <rect x="28" y="28" width="1144" height="704" rx="24" fill="#f0fdf4" stroke="#e5e7eb"/>
+  <text x="600" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#15803d">PROJECTS</text>
+  <text x="600" y="158" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" fill="#374151">Our Projects</text>
+  <text x="600" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6b7280">Sustainable water solutions designed around the communities they serve.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="74" y="250" width="326" height="365" rx="14" fill="#fff" stroke="#e5e7eb"/>
+    <rect x="98" y="278" width="66" height="26" rx="13" fill="#dcfce7"/>
+    <text x="131" y="296" text-anchor="middle" font-size="12" font-weight="700" fill="#15803d">ACTIVE</text>
+    <text x="98" y="346" font-size="24" font-weight="800" fill="#374151">Mogadishu Water</text>
+    <text x="98" y="377" font-size="24" font-weight="800" fill="#374151">Initiative</text>
+    <text x="98" y="419" font-size="14" fill="#6b7280">Sustainable water distribution points</text>
+    <text x="98" y="442" font-size="14" fill="#6b7280">for urban communities.</text>
+    <line x1="98" y1="474" x2="376" y2="474" stroke="#e5e7eb"/>
+    <text x="98" y="514" font-size="14" fill="#374151">●  Mogadishu, Somalia</text>
+    <text x="98" y="548" font-size="14" fill="#374151">◷  2024</text>
+    <text x="98" y="582" font-size="14" fill="#374151">●  5,000 people</text>
+
+    <rect x="437" y="250" width="326" height="365" rx="14" fill="#fff" stroke="#e5e7eb"/>
+    <rect x="461" y="278" width="92" height="26" rx="13" fill="#e0f2fe"/>
+    <text x="507" y="296" text-anchor="middle" font-size="12" font-weight="700" fill="#0369a1">COMPLETED</text>
+    <text x="461" y="346" font-size="24" font-weight="800" fill="#374151">Rural Well</text>
+    <text x="461" y="377" font-size="24" font-weight="800" fill="#374151">Construction</text>
+    <text x="461" y="419" font-size="14" fill="#6b7280">Deep-water wells for remote</text>
+    <text x="461" y="442" font-size="14" fill="#6b7280">rural communities.</text>
+    <line x1="461" y1="474" x2="739" y2="474" stroke="#e5e7eb"/>
+    <text x="461" y="514" font-size="14" fill="#374151">●  Gedo Region, Somalia</text>
+    <text x="461" y="548" font-size="14" fill="#374151">◷  2024</text>
+    <text x="461" y="582" font-size="14" fill="#374151">●  2,500 people</text>
+
+    <rect x="800" y="250" width="326" height="365" rx="14" fill="#fff" stroke="#e5e7eb"/>
+    <rect x="824" y="278" width="92" height="26" rx="13" fill="#e0f2fe"/>
+    <text x="870" y="296" text-anchor="middle" font-size="12" font-weight="700" fill="#0369a1">COMPLETED</text>
+    <text x="824" y="346" font-size="24" font-weight="800" fill="#374151">School Water</text>
+    <text x="824" y="377" font-size="24" font-weight="800" fill="#374151">Program</text>
+    <text x="824" y="419" font-size="14" fill="#6b7280">Water systems for schools, health,</text>
+    <text x="824" y="442" font-size="14" fill="#6b7280">and stronger attendance.</text>
+    <line x1="824" y1="474" x2="1102" y2="474" stroke="#e5e7eb"/>
+    <text x="824" y="514" font-size="14" fill="#374151">●  Bay Region, Somalia</text>
+    <text x="824" y="548" font-size="14" fill="#374151">◷  2023</text>
+    <text x="824" y="582" font-size="14" fill="#374151">●  1,200 people</text>
+  </g>
+
+  <rect x="493" y="656" width="214" height="44" rx="8" fill="#15803d"/>
+  <text x="600" y="684" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#fff">VIEW ALL PROJECTS</text>
+</svg>
